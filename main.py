@@ -51,3 +51,5 @@ def api_profissionais():
 
 if __name__ == '__main__':
     app.run()
+    
+######TESTE
